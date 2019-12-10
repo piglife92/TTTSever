@@ -20,6 +20,18 @@ sign up, sign in server
 </pre>
 
 ### 결과
+#### 성공
+<pre>
+{
+ '_id':'1234567890',
+ 'username':'hongildong',
+ 'name':'홍길동'
+}
+</pre>
+#### 실패
+{
+ 'message':'400 Bad Request'
+}
 
 ##로그인
 ### 요청
